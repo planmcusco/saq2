@@ -5,20 +5,20 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": -13.526406,
-          "lon": -71.949044
+          "lat": -13.531745,
+          "lon": -71.968454
         }
       },
       "id": 1,
       "text": {
-        "title": "Punto1"
+        "title": "Pachacuteq"
       }
     },
     {
       "anchor": {
         "geolocation": {
-          "lat": -13.527020,
-          "lon": -71.948902
+          "lat": -13.531838,
+          "lon": -71.967994
         }
       },
       "icon": {
@@ -26,7 +26,7 @@
       },
       "id": 2,
       "text": {
-        "description": "Description line 1\nDescription line 2\nand Description line 3",
+        "description": "Descripcion line 1\nDescription line 2\nand Description line 3",
         "title": "This POI has a custom icon and description"
       }
     },
@@ -40,8 +40,8 @@
       ],
       "anchor": {
         "geolocation": {
-          "lat": -13.526610,
-          "lon": -71.949619
+          "lat": -13.530810,
+          "lon": -71.966870
         }
       },
       "id": 3,
