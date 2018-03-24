@@ -2,53 +2,110 @@
   "errorCode": 0,
   "errorString": "ok",
   "hotspots": [
+
     {
       "anchor": {
         "geolocation": {
-          "lat": -13.526662,
-          "lon": -71.949307
-        }
-      },
-      "id": 1,
-      "text": {
-        "title": "Pachacuteq"
-      }
-    },
-    {
-      "anchor": {
-        "geolocation": {
-          "lat": -13.526561,
-          "lon": -71.949017
+          "lat": -13.526675,
+          "lon": -71.949299
         }
       },
       "icon": {
-        "url": "https://planmcusco.github.io/saq2/icona.png"
+        "url": "https://planmcusco.github.io/saq2/1.jpg"
+      },
+      "id": 1,
+      "text": {
+        "title": "Museo de los Pintores Oaxaqueños",
+        "description": "El Museo de los Pintores Oaxaqueños se crea con la finalidad de ofrecer un espacio abierto al desarrollo contemporáneo de las artes plásticas y gráficas en la entidad, ofreciendo exposiciones que promuevan y difundan la obra de artistas oaxaqueños y generen un foro crítico e incluyente a las distintas maneras de hacer y apreciar el arte",
+        "footnote": "Powered by Layar"
+      }
+    },
+  {
+      "anchor": {
+        "geolocation": {
+          "lat": -13.526771,
+          "lon": -71.948908
+        }
+      },
+      "icon": {
+        "url": "https://planmcusco.github.io/saq2/2.jpg"
       },
       "id": 2,
       "text": {
-        "description": "Descripcion line 1\nDescription line 2\nand Description line 3",
-        "title": "This POI has a custom icon and description"
+        "title": "Museo Textil de Oaxaca",
+        "description": "El Museo Textil de Oaxaca ofrece una visión sobre los textiles oaxaqueños, de México y del mundo",
+        "footnote": "Powered by Layar"
       }
-    },
+    }
+    ,
     {
-      "actions": [
-        {
-          "contentType": "text/html",
-          "label": "Visit our hotspots documentation!",
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
-        }
-      ],
       "anchor": {
         "geolocation": {
-          "lat": -13.527028,
-          "lon": -71.948893
+          "lat": -13.526484,
+          "lon": -71.949205
         }
+      },
+      "icon": {
+        "url": "https://planmcusco.github.io/saq2/3.jpg"
       },
       "id": 3,
       "text": {
-        "title": "This POI has an action"
+        "title": "Museo de Filatelia de Oaxaca",
+        "description": "El Museo de la Flilatelia de Oaxaca (MUFI) es un recinto museográfico de la ciudad de Oaxaca, Oaxaca, dedicado a la difusión de la filatelia y el coleccionismo.",
+        "footnote": "Powered by Layar"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -13.526546,
+          "lon": -71.949028
+        }
+      },
+      "icon": {
+        "url": "https://planmcusco.github.io/saq2/4.png"
+      },
+      "id": 4,
+      "text": {
+        "title": "MUSEO DE ARTE CONTEMPORÁNEO DE OAXACA (MACO)",
+        "description": "Colección de obras plásticas oaxaqueña, nacional e internacional.",
+        "footnote": "Powered by Layar"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -13.526593,
+          "lon": -71.948640
+        }
+      },
+      "icon": {
+        "url": "https://planmcusco.github.io/saq2/5.jpg"
+      },
+      "id": 5,
+      "text": {
+        "title": "Museo de las Culturas de Oaxaca, Santo Domingo",
+        "description": "El Centro Cultural Santo Domingo es un conjunto arquitectónico que fue abierto al público el 24 de julio de 1998 y pertenece al Museo de las Culturas de Oaxaca .",
+        "footnote": "Powered by Layar"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -13.526461,
+          "lon": -71.948962
+        }
+      },
+      "icon": {
+        "url": "https://planmcusco.github.io/saq2/6.jpg"
+      },
+      "id": 6,
+      "text": {
+        "title": "Museo de Arte Prehispanico de México Rufino Tamayo",
+        "description": "El Museo de Arte Prehispánico de México Rufino Tamayo, abrió sus puertas al público el 29 de Enero de 1974. Su existencia obedece al gran deseo del eminente pintor Oaxaqueño de dar a la obra del mexicano antiguo, la categoría de arte que le había sido negada.",
+        "footnote": "Powered by Layar"
       }
     }
   ],
-  "layer": ""
+  "layer": "Saqsaywaman1"
 }
