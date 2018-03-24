@@ -1,0 +1,54 @@
+{
+  "errorCode": 0,
+  "errorString": "ok",
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -13.526662,
+          "lon": -71.949307
+        }
+      },
+      "id": 1,
+      "text": {
+        "title": "Pachacuteq"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -13.526561,
+          "lon": -71.949017
+        }
+      },
+      "icon": {
+        "url": "https://planmcusco.github.io/saq2/icona.png"
+      },
+      "id": 2,
+      "text": {
+        "description": "Descripcion line 1\nDescription line 2\nand Description line 3",
+        "title": "This POI has a custom icon and description"
+      }
+    },
+    {
+      "actions": [
+        {
+          "contentType": "text/html",
+          "label": "Visit our hotspots documentation!",
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ],
+      "anchor": {
+        "geolocation": {
+          "lat": -13.527028,
+          "lon": -71.948893
+        }
+      },
+      "id": 3,
+      "text": {
+        "title": "This POI has an action"
+      }
+    }
+  ],
+  "layer": ""
+}
