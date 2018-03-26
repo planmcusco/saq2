@@ -16,7 +16,7 @@
       "id": 1,
       "text": {
         "title": "Monumento Pacahcuteq",
-        "description": "Desarrollo contemporáneo de las artes plásticas y gráficas en la entidad, ofreciendo exposiciones que promuevan y difundan la obra y apreciar el arte",
+        "description": "Desarrollo contemporáneo de las artes plásticas y gráficas en la entidad, ofreciendo exposiciones que promuevan y difundan la obra  y apreciar el arte",
         "footnote": "Powered by Layar"
       }
     },
@@ -107,6 +107,6 @@
       }
     }
   ],
-
+  "layer":"saqsaywaman5s87"
 
 }
