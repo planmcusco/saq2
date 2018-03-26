@@ -6,8 +6,8 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": -13.526675,
-          "lon": -71.949299
+          "lat": -13.531744,
+          "lon": -71.968397
         }
       },
       "icon": {
@@ -15,7 +15,7 @@
       },
       "id": 1,
       "text": {
-        "title": "Museo de los Pintores Oaxaqueños",
+        "title": "Monumento Pacahcuteq",
         "description": "El Museo de los Pintores Oaxaqueños se crea con la finalidad de ofrecer un espacio abierto al desarrollo contemporáneo de las artes plásticas y gráficas en la entidad, ofreciendo exposiciones que promuevan y difundan la obra de artistas oaxaqueños y generen un foro crítico e incluyente a las distintas maneras de hacer y apreciar el arte",
         "footnote": "Powered by Layar"
       }
