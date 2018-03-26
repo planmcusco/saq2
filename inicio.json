@@ -11,7 +11,7 @@
         }
       },
       "icon": {
-        "url": "https://planmcusco.github.io/saq2/1.jpg"
+        "url": "https://github.com/planmcusco/saq2/blob/master/1.jpg"
       },
       "id": 1,
       "text": {
@@ -28,7 +28,7 @@
         }
       },
       "icon": {
-        "url": "https://planmcusco.github.io/saq2/2.jpg"
+        "url": "https://github.com/planmcusco/saq2/blob/master/2.jpg"
       },
       "id": 2,
       "text": {
@@ -46,7 +46,7 @@
         }
       },
       "icon": {
-        "url": "https://planmcusco.github.io/saq2/3.jpg"
+        "url": "https://github.com/planmcusco/saq2/blob/master/3.jpg"
       },
       "id": 3,
       "text": {
@@ -63,7 +63,7 @@
         }
       },
       "icon": {
-        "url": "https://planmcusco.github.io/saq2/4.png"
+        "url": "https://github.com/planmcusco/saq2/blob/master/4.png"
       },
       "id": 4,
       "text": {
@@ -80,7 +80,7 @@
         }
       },
       "icon": {
-        "url": "https://planmcusco.github.io/saq2/5.jpg"
+        "url": "https://github.com/planmcusco/saq2/blob/master/5.jpg"
       },
       "id": 5,
       "text": {
@@ -97,7 +97,7 @@
         }
       },
       "icon": {
-        "url": "https://planmcusco.github.io/saq2/6.jpg"
+        "url": "https://github.com/planmcusco/saq2/blob/master/6.jpg"
       },
       "id": 6,
       "text": {
@@ -108,5 +108,5 @@
     }
   ],
   "layer": "Saqsaywaman1"
-  
+
 }
